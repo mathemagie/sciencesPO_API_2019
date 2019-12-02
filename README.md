@@ -14,17 +14,33 @@ https://kissmyfrogs.com/mehdi-medjaoui-oauth-api-startup/
 
 - https://www.youtube.com/watch?v=7YcW25PHnAA (REST API concepts and examples)
 
+- https://www.programmableweb.com/
+
+enjeux business
+
 #cours 2
 
 - installer l'application native (ou chrome) REST client 
-- JSON
-- 
+
+- créer un compte sur l'API météo : https://darksky.net/dev, prendre le temps de lire la documentation 
+
+- exemple d'un appel à l'API Dark : https://api.darksky.net/forecast/de8d1bb1229534fc22af0784f5655bc4/48.856613,2.352222?lang=fr&units=auto
+
+exercices : changer de ville, d'unité de mesures, d'ajouter la témpérature, le summary de currently
+
+le code source sur Glitch : https://api-meteo.glitch.me/
+
+outil pour visualiser le JSON : http://jsonviewer.stack.hu/
+
+objectifs du cours : modifier les paramètres d'appel une à API, compréhension du format JSON, RTFM, prendre le temps de lire la documentation, se faire la main sur la plate-forme GLITCH
 
 #cours 3
 
 https://maps-sciences-po.glitch.me/
 
-https://docs.google.com/document/d/1y91aZSSE_eo-u_c8sdgWEzlMGHM99DE2aDvcsJGD_Oc/edit
+liste des exercices : https://docs.google.com/document/d/1y91aZSSE_eo-u_c8sdgWEzlMGHM99DE2aDvcsJGD_Oc/edit
+
+affichage de la https://meteo-map.glitch.me/
 
 #cours 4
 
@@ -32,7 +48,38 @@ https://docs.google.com/document/d/1y91aZSSE_eo-u_c8sdgWEzlMGHM99DE2aDvcsJGD_Oc/
 
 #cours 5
 
+introduction à la notion d'API pour un objet connecté : 
+
+la documentation sur Google : https://codelabs.developers.google.com/codelabs/candle-bluetooth/index.html?index=..%2F..index#0
+
+le code uploadé (par aurélien) sur glitch => https://googlecodelabs-candle-bluetooth.glitch.me/ 
+
+et les trois URls différentes afin de pouvoir changer de couleur 
+
+https://changecolor-candle.glitch.me/rouge
+
+https://changecolor-candle.glitch.me/bleu
+
+https://changecolor-candle.glitch.me/jaune
+
+
+
+TODO : changer la couleur de la lampe en fonction de la méteo 
+
+https://meteo-candle.glitch.me/
+
+
+Dans un second temps : 
+
 introduction au service IFTTT : https://ifttt.com/
+
+exemple de recettes singulières : 
+
+https://www.facebook.com/photo.php?fbid=10156825338431801&set=a.10150209701241801&type=3&theater
+
+https://www.joincomputerclub.com/posts/what-to-wear?fbclid=IwAR1Tad99JMp1Q_W23XCN2Nh3-o5im0mZd4gkXmfPLgfbM5clM0pUtcZtXgo
+
+
 
 #cours 6
 
@@ -40,5 +87,5 @@ introduction au service IFTTT : https://ifttt.com/
 - installation la la librairie python tweepy
 - test du script 
 
-https://docs.google.com/presentation/d/1mQ-7F_bH0rwRVMN9N6eyphY_5nYfZsr2ztxzlh_VaZE/edit#slide=id.gda3197bd5_0_33
+objets oniriques, enchantés : https://docs.google.com/presentation/d/1mQ-7F_bH0rwRVMN9N6eyphY_5nYfZsr2ztxzlh_VaZE/edit#slide=id.gda3197bd5_0_33
 
