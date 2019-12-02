@@ -1,6 +1,6 @@
 # sciencesPO_API_2019
 
-#cours 1
+## cours 1
 
 Les slides de FABERNOVEL : https://fr.slideshare.net/faberNovel/6-reasons-why-apis-are-reshaping-your-business
 
@@ -16,9 +16,9 @@ https://kissmyfrogs.com/mehdi-medjaoui-oauth-api-startup/
 
 - https://www.programmableweb.com/
 
-enjeux business
+enjeux business, RH, légoification du software, diminutin du temps de développement d'un prototype (mise sur le marché de sa proposition de valeur) 
 
-#cours 2
+## cours 2
 
 - installer l'application native (ou chrome) REST client 
 
@@ -34,7 +34,7 @@ outil pour visualiser le JSON : http://jsonviewer.stack.hu/
 
 objectifs du cours : modifier les paramètres d'appel une à API, compréhension du format JSON, RTFM, prendre le temps de lire la documentation, se faire la main sur la plate-forme GLITCH
 
-#cours 3
+## cours 3
 
 https://maps-sciences-po.glitch.me/
 
@@ -42,13 +42,15 @@ liste des exercices : https://docs.google.com/document/d/1y91aZSSE_eo-u_c8sdgWEz
 
 affichage de la https://meteo-map.glitch.me/
 
-#cours 4
+mixer plusieurs API (API data et API logciel) ou faire appel à plusieurs API data dans la même page web
+
+## cours 4
 
 
 
-#cours 5
+## cours 5
 
-introduction à la notion d'API pour un objet connecté : 
+A/ introduction à la notion d'API pour un objet connecté : 
 
 la documentation sur Google : https://codelabs.developers.google.com/codelabs/candle-bluetooth/index.html?index=..%2F..index#0
 
@@ -69,23 +71,33 @@ TODO : changer la couleur de la lampe en fonction de la méteo
 https://meteo-candle.glitch.me/
 
 
-Dans un second temps : 
+B/ Dans un second temps : 
 
 introduction au service IFTTT : https://ifttt.com/
 
 exemple de recettes singulières : 
 
-https://www.facebook.com/photo.php?fbid=10156825338431801&set=a.10150209701241801&type=3&theater
+sextoy : https://www.facebook.com/photo.php?fbid=10156825338431801&set=a.10150209701241801&type=3&theater
 
-https://www.joincomputerclub.com/posts/what-to-wear?fbclid=IwAR1Tad99JMp1Q_W23XCN2Nh3-o5im0mZd4gkXmfPLgfbM5clM0pUtcZtXgo
+recevoir un texto en fonction de la météo : https://www.joincomputerclub.com/posts/what-to-wear?fbclid=IwAR1Tad99JMp1Q_W23XCN2Nh3-o5im0mZd4gkXmfPLgfbM5clM0pUtcZtXgo
 
+tracé LASER de la trajectoire de l'ISS : https://www.instagram.com/p/BToslIbFU7o/
 
+mobilier pour enfant : http://julienlevesque.net/In-The-Cloud-With-Lulu/
 
-#cours 6
+feux tricolore : https://www.facebook.com/photo.php?fbid=10156809704176801&set=a.10150209701241801&type=3&theater
+
+une chaise : https://www.facebook.com/photo.php?fbid=10156807715161801&set=a.10150209701241801&type=3&theater
+
+little Umbrella : http://www.julienlevesque.net/little-umbrella/
+
+## cours 6
 
 - installation de la version 3.4 de Python sous mac 
 - installation la la librairie python tweepy
 - test du script 
 
-objets oniriques, enchantés : https://docs.google.com/presentation/d/1mQ-7F_bH0rwRVMN9N6eyphY_5nYfZsr2ztxzlh_VaZE/edit#slide=id.gda3197bd5_0_33
+URL des slides objets oniriques, enchantés : https://docs.google.com/presentation/d/1mQ-7F_bH0rwRVMN9N6eyphY_5nYfZsr2ztxzlh_VaZE/edit#slide=id.gda3197bd5_0_33
+
+objectifs du cours : s'approprier des API logiciel (twitter, TWILLIO, lampe) 
 
