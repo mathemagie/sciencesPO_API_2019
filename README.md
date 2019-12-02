@@ -93,9 +93,11 @@ little Umbrella : http://www.julienlevesque.net/little-umbrella/
 
 ## cours 6
 
-- installation de la version 3.4 de Python sous mac 
 - installation la la librairie python tweepy
-- test du script 
+
+https://realpython.com/twitter-bot-python-tweepy/#installation
+
+- test du script méteo.py
 
 URL des slides objets oniriques, enchantés : https://docs.google.com/presentation/d/1mQ-7F_bH0rwRVMN9N6eyphY_5nYfZsr2ztxzlh_VaZE/edit#slide=id.gda3197bd5_0_33
 
